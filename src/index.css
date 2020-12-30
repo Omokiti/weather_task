@@ -1,0 +1,33 @@
+*{
+  box-sizing:border-box;
+}
+html{
+font-size:62.5%;
+}
+body{
+font-size:2.7rem;
+}
+h2{
+color:#5377FE;
+}
+body{
+background:grey;
+}
+
+input{
+color:#ffffff;
+width:80%;
+height:50px;
+color:red;
+}
+.locations{
+
+  margin:20px 60px;
+padding:5px;
+background:#ffffff;
+width:18.75rem;
+height:10.25rem;
+border-radius:15px;
+box-shadow:5px  #ffffff;
+text-align:center;
+}
