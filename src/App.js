@@ -1,10 +1,8 @@
 import React,{useState} from "react";
-import logo from './logo.svg';
+
 import './App.css';
-const api= {
-apiKey:"2c49d1c9f8e8728e6b61524220455f88",
-url:"https://api.openweathermap.org/data/2.5/"
-}
+
+
 function App() {
 
   const [query,setQuery]=useState('');
